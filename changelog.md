@@ -11,5 +11,10 @@
 * Newest additions first
 
 ##Contributors
-* Captin: Kevin Tam 
+* Captain: Kevin Tam 
 * First Mate: Alex Bai
+
+##Version 1.0.1
+* Added additional avatar picture 150x150 
+* Added unique quote
+* Fixed typo in initial changelog.
