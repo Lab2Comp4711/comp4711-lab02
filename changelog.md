@@ -1,3 +1,7 @@
+##Version 1.0.1
+* Added a what to the Welcome.php
+* Update to the title in the homepage.php
+
 ##Version 1.0.0
 * Initialized respository 
 * Update changelog.md
