@@ -12,7 +12,6 @@
 * Added unique quote
 * Fixed typo in initial changelog.
 
->>>>>>> refs/remotes/Lab2Comp4711/develop
 ##Version 1.0.0
 * Initialized respository 
 * Update changelog.md
