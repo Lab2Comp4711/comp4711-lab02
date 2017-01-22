@@ -1,11 +1,18 @@
-##Version 1.0.1
+##Version 1.0.3
+* Added a random function to only select one random quote and break out of the function
+* Created a feature branch for the task
+* Added comments to clarify what the added portions of code do to Welcome.php
+
+##Version 1.0.2
 * Added a what to the Welcome.php
 * Update to the title in the homepage.php
 
-<<<<<<< HEAD
+##Version 1.0.1
+* Added additional avatar picture 150x150 
+* Added unique quote
+* Fixed typo in initial changelog.
 
-=======
->>>>>>> 79f593a6a358f2da07f773c1a1325557f1d410fd
+>>>>>>> refs/remotes/Lab2Comp4711/develop
 ##Version 1.0.0
 * Initialized respository 
 * Update changelog.md
@@ -18,7 +25,3 @@
 * Captain: Kevin Tam 
 * First Mate: Alex Bai
 
-##Version 1.0.1
-* Added additional avatar picture 150x150 
-* Added unique quote
-* Fixed typo in initial changelog.
