@@ -1,3 +1,6 @@
+##Version 1.0.4
+* Final pull request to the github team repo
+
 ##Version 1.0.3
 * Added a random function to only select one random quote and break out of the function
 * Created a feature branch for the task
