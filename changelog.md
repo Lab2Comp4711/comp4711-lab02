@@ -1,4 +1,7 @@
-
+##Version 1.0.3
+* Added a random function to only select one random quote and break out of the function
+* Created a feature branch for the task
+* Added comments to clarify what the added portions of code do to Welcome.php
 
 ##Version 1.0.2
 * Added a what to the Welcome.php
